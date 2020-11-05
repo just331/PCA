@@ -2,7 +2,7 @@
 
 The source code to this assignment can be viewed at:  https://github.com/just331/PCA
 
-The demonstration video can be watched: 
+The demonstration video can be watched: https://youtu.be/MX0ODf1mhP8
 
 ##Q1:   Describe the meaning of the term “eigen faces”. How does it relate to PCA as studied in this class? Explain the steps used to undertake eigen faces based face classification. 
 Eigen faces are a set of eigenvectors that are used to assist in the recognition of faces, images in general. The process to getting these eigenfaces involves reducing each image from a 
