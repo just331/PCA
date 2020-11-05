@@ -30,4 +30,4 @@ their data based on the results of PCA.
 ![ScreenShot](https://github.com/just331/PCA/blob/master/pca2.JPG)
 
 ## EigenFace Analysis 
-Was unable to understand how to do this part without using built in packages/libraries
+Was unable to understand how to do this part
